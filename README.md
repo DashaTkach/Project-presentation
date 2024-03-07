@@ -1,13 +1,6 @@
 ﻿<a name="br1"></a> 
 
-<p style="text-align: center; color: purple; font-weight: 700; font-size:35px">Make-up palette</p>
-
-<p style="text-align: center;  color: purple; font-weight: 700; font-size:25px">app with AI</p>
-
-
-<a name="br2"></a> 
-
-<p style="text-align: center; color: pink; font-size:20px">Сущность разработки</p>
+# Сущность разработки
 
 **Функция**: приложение, которое на основе make-up БД подбирает гармоничную цветовую гамму для макияжа с учётом выбранного оттенка определённого продукта
 
@@ -31,14 +24,14 @@
 # ![](pictures/Таблица1.jpg)
 
 
-<a name="br3"></a> 
+<a name="br2"></a> 
 
 
 # ![](pictures/Таблица2.jpg)
 
 
 
-<a name="br4"></a> 
+<a name="br3"></a> 
 
 # ![](pictures/Таблица3.jpg)
 
